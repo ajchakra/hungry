@@ -1,24 +1,26 @@
 hungry??
 
-
-
 eat pizza
 
-
 eat fries 
 
 eat samosa
-
-
 
 else 
 
 do homework
 
-
 thirsty??
 
+<<<<<<< HEAD
 drink water
 
 drink beer
 
+=======
+drink water
+
+get high??
+
+POT
+>>>>>>> a4e5c6924fb9e423fa1b1680cd85420927532241
