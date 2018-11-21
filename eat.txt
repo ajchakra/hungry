@@ -7,6 +7,8 @@ eat pizza
 
 eat fries 
 
+eat samosa
+
 
 
 else 
