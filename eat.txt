@@ -1,21 +1,19 @@
 hungry??
 
-
-
 eat pizza
 
-
 eat fries 
 
 eat samosa
-
-
 
 else 
 
 do homework
 
-
 thirsty??
 
 drink water
+
+get high??
+
+POT
